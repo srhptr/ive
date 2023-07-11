@@ -1,0 +1,250 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+*{
+    padding : 0;
+    margin :0;
+    font-family: "Manrope";
+    background-color: #997C93;
+}
+
+.header_nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+    font-size: 20px;
+    background-color: #D494B7;
+    padding: 22px 150px;
+}
+
+.header_nav ul *{
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+    padding: 0 12px;
+}
+
+.header .hero{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 150px;
+    
+}
+
+.header .hero .hero_left h1{
+    font-size: 55px;
+}
+
+.header .hero .hero_left p{
+    font-size: 20px;
+}
+
+.header .hero .hero_left .tombol_hero{
+    text-decoration: none;
+    padding: 16px 48px;
+    background-color: #9D9D9D;
+    border-radius: 8px;
+    color: black;
+    top: 100px;
+    position: relative;
+}
+
+.section{
+    padding: 125px 150px;
+}
+
+#pertama
+#one{
+    background-color: #997C93;
+    top: 380px;
+    position: relative;
+}
+
+.one .title_one h2{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    color: black;
+}
+
+.one .ig_one img{
+    border-radius: 8px;
+}
+
+.one .title_ones h2{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    color: black;
+    margin-top: 100px;
+}
+
+/* two */
+.two{
+    background-color: #997C93;
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+    margin-top: 50px;
+}
+
+.two .two_left h4 {
+    text-align: center;
+    font-size: 30px;
+    color: black ;
+}
+
+.two .two_left p{
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
+
+.two .two_right img{
+    border-radius: 8px;
+}
+
+/* three */
+.three {
+    background-color: #997C93;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    margin-top: 257px;
+}
+  
+.three .three_left h4 {
+    text-align: center;
+    font-size: 30px;
+    color: black ;
+}
+
+.three .three_left p{
+    text-align: center;
+    font-size: 27px;
+    color: black;
+}
+
+.three .three_right img{
+    border-radius: 8px;
+}
+
+/* four */
+.four {
+    background-color: #997C93;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    margin-top: 257px;
+}
+  
+.four .four_right h4{
+    text-align: center;
+    font-size: 30px;
+    color: black ;
+}
+
+.four .four_right p{
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
+
+.four .four_left img{
+    border-radius: 8px;
+}
+
+/* five */
+.five {
+    background-color: #997C93;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    margin-top: 257px;
+}
+  
+.five .five_left h4 {
+    text-align: center;
+    font-size: 30px;
+    color: black ;
+}
+
+.five .five_left p{
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
+
+.five .five_right img{
+    border-radius: 8px;
+}
+
+/* six */
+.six {
+    background-color: #997C93;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    margin-top: 257px;
+}
+  
+.six .six_right h4{
+    text-align: center;
+    font-size: 30px;
+    color: black ;
+}
+
+.six .six_right p{
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
+
+.six .six_left img{
+    border-radius: 8px;
+}
+
+/* seven */
+.seven {
+    background-color: #997C93;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    margin-top: 257px;
+}
+  
+.seven .seven_left h4 {
+    text-align: center;
+    font-size: 30px;
+    color: black ;
+}
+
+.seven .seven_left p{
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
+
+.seven .seven_right img{
+    border-radius: 8px;
+}
+
+/* footer */
+#footer{
+    background-color: #D494B7;
+    padding: 20px 50px ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.footer .footer_logo{
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.footer .footer_right{
+    font-weight: 400;
+    font-size: 19px;
+}
